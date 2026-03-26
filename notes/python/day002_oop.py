@@ -1,3 +1,4 @@
+#day 002 - OOP
 class Shape:
     
     def __init__(self,shape):

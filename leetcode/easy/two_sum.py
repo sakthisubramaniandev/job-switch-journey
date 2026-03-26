@@ -1,7 +1,6 @@
 # Problem: Two Sum
 # Difficulty: Easy
 # Date: 26 March 2026
-# Status: Accepted ✅
 # Time Complexity: O(n)
 # Space Complexity: O(n)
 
