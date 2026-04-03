@@ -1,26 +1,14 @@
-# Job Switch Journey
-### Day 1 - 25 March 2026
-Concepts Learned:
-- Classes and objects
-- Inheritance
-- Dunder Methods
-- Encapsulation
+# Job Switch Journey — Sakthi
 
-### Day 2 - 26 March 2026
-Concepts Learned:
-- Polymorphism
-- Abstract Classes
-- Two_Sum Leet Code
+## Progress Tracker
+| Day | Date | Topics | LeetCode |
+|---|---|---|---|
+| 001 | 25 Mar 2026 | Python OOP | - |
+| 002 | 26 Mar 2026 | Polymorphism, Abstract Classes | Two Sum ✅ |
+| 003 | 01 Apr 2026 | Decorators, Generators | Valid Anagram ✅ |
+| 004 | 03 Apr 2026 | Error Handling, File Handling | Contains Duplicate ✅ |
 
-### Day 3 - 1 April 2026
-Concepts Learned:
-- Decorators
-- Generators
-- Valid_Anagram Leet Code
-
-### Day 4 - 3 April 2026
-Concepts Learned:
-- Error Handling
-- File Handling
-- Contains Duplicate Leet Code
+## LeetCode Progress
+- Easy: 3/75
+- Medium: 0/50
 
