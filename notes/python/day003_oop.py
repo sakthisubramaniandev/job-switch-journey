@@ -22,7 +22,7 @@ def mul(a,b):
 def even_numbers():
     a = 0
     while True:
-        yeild a
+        yield a
         a += 2
 even_no = even_numbers()
 

@@ -18,4 +18,9 @@ Concepts Learned:
 - Generators
 - Valid_Anagram Leet Code
 
+### Day 4 - 3 April 2026
+Concepts Learned:
+- Error Handling
+- File Handling
+- Contains Duplicate Leet Code
 
