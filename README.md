@@ -7,8 +7,9 @@
 | 002 | 26 Mar 2026 | Polymorphism, Abstract Classes | Two Sum ✅ |
 | 003 | 01 Apr 2026 | Decorators, Generators | Valid Anagram ✅ |
 | 004 | 03 Apr 2026 | Error Handling, File Handling | Contains Duplicate ✅ |
+| 005 | 06 Apr 2026 | List Comprehensions, Lambda, Map/Filter | Best Time Stock ✅ |
 
 ## LeetCode Progress
-- Easy: 3/75
+- Easy: 4/75
 - Medium: 0/50
 
