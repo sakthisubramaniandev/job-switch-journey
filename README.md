@@ -8,8 +8,10 @@
 | 003 | 01 Apr 2026 | Decorators, Generators | Valid Anagram ✅ |
 | 004 | 03 Apr 2026 | Error Handling, File Handling | Contains Duplicate ✅ |
 | 005 | 06 Apr 2026 | List Comprehensions, Lambda, Map/Filter | Best Time Stock ✅ |
+| 006 | 07 Apr 2026 | args/kwargs, Collections | Maximum Subarray ✅ |
+
 
 ## LeetCode Progress
-- Easy: 4/75
+- Easy: 5/75
 - Medium: 0/50
 
