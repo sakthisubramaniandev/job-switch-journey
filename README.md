@@ -10,6 +10,7 @@
 | 005 | 06 Apr 2026 | List Comprehensions, Lambda, Map/Filter | Best Time Stock ✅ |
 | 006 | 07 Apr 2026 | args/kwargs, Collections | Maximum Subarray ✅ |
 | 007 | 15 Apr 2026 | String Methods, Regex | Climbing Stairs ✅ |
+| 008 | 15 Apr 2026 | Two Pointer Pattern | Palindrome Number ✅ |
 
 ## LeetCode Progress
 - Easy: 6/75

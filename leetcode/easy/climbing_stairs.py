@@ -1,7 +1,6 @@
 # Problem: Climbing Stairs
 # Difficulty: Easy
 # Date: 15 April 2026
-# Status: Accepted ✅
 # Time Complexity: O(n)
 # Space Complexity: O(1)
 # Pattern: Dynamic Programming
