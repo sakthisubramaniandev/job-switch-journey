@@ -11,8 +11,9 @@
 | 006 | 07 Apr 2026 | args/kwargs, Collections | Maximum Subarray ✅ |
 | 007 | 15 Apr 2026 | String Methods, Regex | Climbing Stairs ✅ |
 | 008 | 15 Apr 2026 | Two Pointer Pattern | Palindrome Number ✅ |
+| 009 | 16 Apr 2026 | Two Pointer Pattern | Maximum Average Subarray ✅ |
 
 ## LeetCode Progress
-- Easy: 6/75
+- Easy: 8/75
 - Medium: 0/50
 
