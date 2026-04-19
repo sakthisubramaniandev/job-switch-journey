@@ -13,8 +13,9 @@
 | 008 | 15 Apr 2026 | Two Pointer Pattern | Palindrome Number ✅ |
 | 009 | 16 Apr 2026 | Two Pointer Pattern | Maximum Average Subarray ✅ |
 | 010 | 17 Apr 2026 | Binary Search Pattern | Binary Search ✅ + Search Insert ✅ |
+| 011 | 18 Apr 2026 | Linked Lists | Reverse Linked List ✅ |
 
 ## LeetCode Progress
-- Easy: 10/75
+- Easy: 11/75
 - Medium: 0/50
 
