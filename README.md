@@ -12,8 +12,9 @@
 | 007 | 15 Apr 2026 | String Methods, Regex | Climbing Stairs ✅ |
 | 008 | 15 Apr 2026 | Two Pointer Pattern | Palindrome Number ✅ |
 | 009 | 16 Apr 2026 | Two Pointer Pattern | Maximum Average Subarray ✅ |
+| 010 | 17 Apr 2026 | Binary Search Pattern | Binary Search ✅ + Search Insert ✅ |
 
 ## LeetCode Progress
-- Easy: 8/75
+- Easy: 10/75
 - Medium: 0/50
 
