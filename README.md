@@ -15,7 +15,8 @@
 | 010 | 17 Apr 2026 | Binary Search Pattern | Binary Search ✅ + Search Insert ✅ |
 | 011 | 18 Apr 2026 | Linked Lists | Reverse Linked List ✅ |
 | 012 | 19 Apr 2026 | Fast/Slow Pointers | Middle Linked List ✅ + Cycle Detection ✅ |
+| 013 | 20 Apr 2026 | Stack + Queue | Valid Parentheses ✅ |
 ## LeetCode Progress
-- Easy: 11/75
+- Easy: 14/75
 - Medium: 0/50
 
