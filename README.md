@@ -17,7 +17,9 @@
 | 012 | 19 Apr 2026 | Fast/Slow Pointers | Middle Linked List ✅ + Cycle Detection ✅ |
 | 013 | 20 Apr 2026 | Stack + Queue | Valid Parentheses ✅ |
 | 014 | 26 Apr 2026 | Binary Trees, Tree Traversal | Maximum Depth ✅ |
+| 015 | 27 Apr 2026 | Balanced Tree, Diameter | Balanced ✅ + Diameter ✅ |
+
 ## LeetCode Progress
-- Easy: 15/75
+- Easy: 17/75
 - Medium: 0/50
 
