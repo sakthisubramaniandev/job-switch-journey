@@ -18,8 +18,9 @@
 | 013 | 20 Apr 2026 | Stack + Queue | Valid Parentheses ✅ |
 | 014 | 26 Apr 2026 | Binary Trees, Tree Traversal | Maximum Depth ✅ |
 | 015 | 27 Apr 2026 | Balanced Tree, Diameter | Balanced ✅ + Diameter ✅ |
+| 016 | 28 Apr 2026 | Same Tree, Symmetric Tree | Same Tree ✅ + Symmetric ✅ |
 
 ## LeetCode Progress
-- Easy: 17/75
+- Easy: 19/75
 - Medium: 0/50
 
