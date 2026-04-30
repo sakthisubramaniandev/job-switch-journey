@@ -20,9 +20,10 @@
 | 015 | 27 Apr 2026 | Balanced Tree, Diameter | Balanced ✅ + Diameter ✅ |
 | 016 | 28 Apr 2026 | Same Tree, Symmetric Tree | Same Tree ✅ + Symmetric ✅ |
 | 017 | 29 Apr 2026 | Binary Search Tree | Search BST ✅ + LCA ✅ |
+| 018 | 30 Apr 2026 | Merge Lists, Intersection | Merge ✅ + Intersection ✅ |
 
 
 ## LeetCode Progress
-- Easy: 19/75
+- Easy: 21/75
 - Medium: 2/50
-- Total: 21
+- Total: 23
