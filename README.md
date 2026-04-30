@@ -19,8 +19,10 @@
 | 014 | 26 Apr 2026 | Binary Trees, Tree Traversal | Maximum Depth ✅ |
 | 015 | 27 Apr 2026 | Balanced Tree, Diameter | Balanced ✅ + Diameter ✅ |
 | 016 | 28 Apr 2026 | Same Tree, Symmetric Tree | Same Tree ✅ + Symmetric ✅ |
+| 017 | 29 Apr 2026 | Binary Search Tree | Search BST ✅ + LCA ✅ |
+
 
 ## LeetCode Progress
 - Easy: 19/75
-- Medium: 0/50
-
+- Medium: 2/50
+- Total: 21
